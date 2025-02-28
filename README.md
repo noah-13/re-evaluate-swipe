@@ -15,7 +15,7 @@ The dataset `swipe_generator_data.json` originates from [Salesforce's Simplifica
   - `eval_with_questeval.ipynb`: Evaluates using QuestEval.
   - `eval_with_referee.ipynb`: Evaluates using Referee.
   - `eval_with_summac.ipynb`: Evaluates using SummaC.
-- **`merged_data.ipynb`**: Merges the evaluation results from different metrics into a single dataset.
+- **`merged_data.ipynb`**: Merges the evaluation results from different metrics into a single dataset and and generating the final `evaluation_results.csv`.
 - **`data/`**: Contains all generated evaluation inputs and outputs.
 
 ## Installation
